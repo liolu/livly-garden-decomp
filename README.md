@@ -1,5 +1,9 @@
 # Livly Garden decompilation (JP)
 
+<!-- bytematch:start -->
+[![Code](https://bytematch.dev/liolu/livly-garden-decomp.svg?label=Code&measure=matched_code_percent)](https://bytematch.dev/liolu/livly-garden-decomp) [![Data](https://bytematch.dev/liolu/livly-garden-decomp.svg?label=Data&measure=matched_data_percent)](https://bytematch.dev/liolu/livly-garden-decomp) [![Functions](https://bytematch.dev/liolu/livly-garden-decomp.svg?label=Functions&measure=matched_functions)](https://bytematch.dev/liolu/livly-garden-decomp)
+<!-- bytematch:end -->
+
 Nintendo DS, game code `BLIJ`. Matching decompilation with Metrowerks mwccarm (compiler version still to be identified: `python tools/probe_compiler.py`).
 
 No game assets in this repository: see `extract/README.md`.
