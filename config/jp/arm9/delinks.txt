@@ -5107,3 +5107,27 @@ src/auto/func_0202bb1c.c:
 src/auto/func_0202bf38.c:
     complete
     .text       start:0x0202bf38 end:0x0202bf94
+
+src/auto/func_0201ba24.c:
+    complete
+    .text       start:0x0201ba24 end:0x0201ba70
+
+src/auto/func_0201de14.c:
+    complete
+    .text       start:0x0201de14 end:0x0201de30
+
+src/auto/func_020237ec.c:
+    complete
+    .text       start:0x020237ec end:0x02023884
+
+src/auto/func_02026a50.c:
+    complete
+    .text       start:0x02026a50 end:0x02026aa0
+
+src/auto/func_02028f18.c:
+    complete
+    .text       start:0x02028f18 end:0x02028f50
+
+src/auto/func_02029198.c:
+    complete
+    .text       start:0x02029198 end:0x020291e8
